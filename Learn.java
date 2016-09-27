@@ -4,6 +4,7 @@ public class Learn{
 
 		textViewLearn();
 		buttonLearn();
+		spinnerLearn();
 		System.out.println("hello word");
 	}
 
@@ -13,5 +14,9 @@ public class Learn{
 
 	private void buttonLearn(){
 		// Button 学习的代码
+	}
+
+	private void spinnerLearn(){
+		//Spinner的学习代码
 	}
 }
