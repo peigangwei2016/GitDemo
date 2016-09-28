@@ -21,6 +21,6 @@ public class Learn{
 	}
 	private void dev(){
 
-		System.out.println("hello dev ");
+		System.out.println("hello dev update ");
 	}
 }
