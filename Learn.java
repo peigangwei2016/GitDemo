@@ -19,5 +19,8 @@ public class Learn{
 	private void spinnerLearn(){
 		//Spinner的学习代码
 	}
-	test git checkout
+	private void dev(){
+
+		
+	}
 }
