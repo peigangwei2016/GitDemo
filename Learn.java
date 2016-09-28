@@ -21,6 +21,8 @@ public class Learn{
 	}
 	private void dev(){
 
-		System.out.println("this is dev thinking! ");
+		for(int i=0;i<5;i++){
+			System.out.println("Hello word!");
+		}
 	}
 }
